@@ -22,6 +22,7 @@ The primary goal of a To-Do List project is to provide a user-friendly platform 
 - Deadline/Date: Assign deadlines or due dates to tasks.
 - Search and Filter: Find tasks based on keywords, priority, or completion status.
 - Categorization: Organize tasks into different categories or projects.
+  
 **Optional Features (Advanced):**
 - User Authentication: Users can create accounts and log in, ensuring their tasks are saved and synchronized across devices.
 - Notifications: Push or email reminders for upcoming deadlines or incomplete tasks.
