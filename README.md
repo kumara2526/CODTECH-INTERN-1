@@ -1,9 +1,9 @@
-**Name:** PAVITHRA S
-**company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS119
-**Domain:** Frontend Web Development
-**Duration:** November 30 to December 30,2024
-**Mentor:**
+ **Name:** PAVITHRA S
+ **company:** CODTECH IT SOLUTIONS
+ **ID:** CT08DS119
+ **Domain:** Frontend Web Development
+ **Duration:** November 30 to December 30,2024
+ **Mentor:**
 
 ## Overview of the Project
 
